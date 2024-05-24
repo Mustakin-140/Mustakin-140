@@ -1,16 +1,16 @@
 ![Web Developer](https://scontent.fdac160-1.fna.fbcdn.net/v/t39.30808-6/438817661_3654455988103349_291045099278989748_n.jpg?stp=dst-jpg_p640x640&_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEixCjlVMBTYfbPUSq6PbGrr6ap7HlD-aqvpqnseUP5qgy471iKlg57ooA83DrzfJJwIPpgwDpaHG3dsT4xgF1J&_nc_ohc=uF_3tzz2IksQ7kNvgGf0Om0&_nc_ht=scontent.fdac160-1.fna&oh=00_AYDqBJyxinwIXaA6eAgludggDkH9DeuiythLm1ckF4wvzw&oe=665603EF)
 
 ### Hi there 👋, I am Md Mustakin Mahi
-#### Web Developer
+#### A Passionate Front End Web Developer from Bangladesh
 
 
-I am a student of Computer Science and Engineering at Southeast University, Bangladesh. I am passonate about web design and development. 
+I am a student of Computer Science and Engineering at Southeast University, Bangladesh. I am passionate about web design and development. 
 
 Skills: HTML/CSS/BootStrap/PHP/MySQL
 
-- 🔭 I’m currently working on Intern at Office of IT, Southeast University 
+- 🔭 I’m currently working an Intern at the Office of IT, Southeast University 
 - 🌱 I’m currently learning JavaScript and ReactJS 
-- 👯 I’m looking to collaborate on Github  
+- 👯 I’m looking to collaborate on GitHub  
 - 📫 How to reach me: https://www.facebook.com/mustakin.mahi 
 
 
