@@ -7,9 +7,9 @@ I am a Graduate of Computer Science and Engineering at Southeast University, Ban
 
 Skills: HTML, CSS, JS, Wordpress, MySQL
 
-- 🔭 I’m currently working as a Trainee Wordpress Developer at Join Venture AI
+- 🔭 I’m currently working as a **Trainee Wordpress Developer at Join Venture AI**
 - 🌱 I’m currently working on Wordpress CMS
-- 👯 I’m looking to collaborate on any project from building landing page to multi page website and Ecommerce Site
+- 👯 **I’m looking to collaborate on any project from building landing page to multi page website and Ecommerce Site**
 - 📫 How to reach me: https://www.facebook.com/mustakin.mahi 
 
 
