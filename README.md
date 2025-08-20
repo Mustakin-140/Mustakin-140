@@ -1,15 +1,15 @@
 
 ### Hi there 👋, I am Md Mustakin Mahi
-#### A Passionate Front End Web Developer from Bangladesh
+#### A Passionate Wordpress Developer from Bangladesh
 
 
-I am a student of Computer Science and Engineering at Southeast University, Bangladesh. I am passionate about web design and development. 
+I am a Graduate of Computer Science and Engineering at Southeast University, Bangladesh. I am passionate about web design and development. 
 
-Skills: HTML/CSS/BootStrap/PHP/MySQL
+Skills: HTML, CSS, JS, Wordpress, MySQL
 
-- 🔭 I’m currently working an Intern at the Office of IT, Southeast University 
-- 🌱 I’m currently learning JavaScript and ReactJS 
-- 👯 I’m looking to collaborate on GitHub  
+- 🔭 I’m currently working as a Trainee Wordpress Developer at Join Venture AI
+- 🌱 I’m currently working on Wordpress CMS
+- 👯 I’m looking to collaborate on any project from building landing page to multi page website and Ecommerce Site
 - 📫 How to reach me: https://www.facebook.com/mustakin.mahi 
 
 
